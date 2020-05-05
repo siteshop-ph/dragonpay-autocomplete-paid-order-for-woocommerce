@@ -2,9 +2,8 @@
 
 /*
 	Plugin Name: Auto Complete Paid Orders for For WooCommerce
-	Author: SiteShop.ph
+	Author: Serge Frankin SiteShop.ph (Netpublica.com Corp.)
 	Author URI: https://siteshop.ph/
- 	License URI: https://siteshop.ph/eula
 */ 
 
 
